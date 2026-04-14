@@ -1,0 +1,4 @@
+.DS_Store
+iemocap_env/
+iemocap_results/
+*.csv
